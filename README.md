@@ -1,0 +1,2 @@
+# SingletonClass
+SingletonClass with Java
